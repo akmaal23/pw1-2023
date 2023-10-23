@@ -1,0 +1,38 @@
+*{margin: 0;
+    padding: 0;
+}
+body {
+    font-family: Arial,Sans-Serif;
+    background-color: pink;
+    color: blue;
+    line-height: 1.6;
+    margin: 0;
+    padding: 0;
+}
+header h1 {
+    font-size: 2.5em;
+}
+section {
+background-color: white;
+margin: 20px;
+padding: 20px;
+border-radius: 5px;
+box-shadow: 0 2px 5px rgba(0,0,0,0.1);
+}
+section h2 {
+    color: white;
+    font-size: 1.8em;
+    margin-bottom: 10px;
+}
+section p {
+    font-size: 1.2em;
+    line-height: 1.6
+}
+
+footer {
+    text-align: center;
+    background-color: red;
+    color: pink;
+    padding-top: 15px;
+    padding-bottom: 15px;
+}
